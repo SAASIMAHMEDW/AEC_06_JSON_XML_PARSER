@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<records>
+    <city>
+        <name>CITY 1</name>
+        <temp>12</temp>
+        <latitude>69</latitude>
+        <longitude>96</longitude>
+    </city>
+    <city>
+        <name>CITY 2</name>
+        <temp>21</temp>
+        <latitude>96</latitude>
+        <longitude>69</longitude>
+    </city>
+</records>
